@@ -1,0 +1,82 @@
+/* Expert Banks */
+/* navbar css */
+
+
+.logo_brand {
+
+position: absolute;
+padding-left: 12%;
+width: 154px;
+height: 74px;
+left: 74px;
+top: 0px;
+
+font-family: 'Iowan Old Style';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 33px;
+display: flex;
+align-items: center;
+color: #000000;
+}
+
+.navbar {
+    --bs-navbar-padding-y: 0;
+    padding-left: 12%;
+    background: linear-gradient(283.22deg, #DDECFE 0%, #FFFFFF 97.63%);
+}
+
+.padding-for-header {
+    padding-left: 24%;
+    font-family: 'Iowan Old Style';
+}
+
+.block1 {
+    font-family:'Iowan Old Style';
+    padding-top: 5%;
+    padding-left: 10%;
+    
+    text-align: left;
+    background: linear-gradient(283.22deg, #DDECFE 0%, #FFFFFF 97.63%);
+}
+
+.ref {
+    font-size:  0.7rem;
+    
+}
+
+.block1 p {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-right: 10%;
+}
+
+.blk1 {
+    padding-bottom: 5%;
+}
+
+.blk1_1 {
+    height: 100%;
+}
+
+.banner-image {
+    padding-right: 0;
+}
+
+.block2 {
+    font-family:'Iowan Old Style';
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-bottom: 5%;
+    text-align: left;
+}
+
+.block_2 {
+    padding-left: 5%;
+    padding-top: 5%;
+}
+
+.block4 {
+    padding: 5%;
+}

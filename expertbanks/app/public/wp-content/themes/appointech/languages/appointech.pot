@@ -1,0 +1,70 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Appointech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-15 09:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.1; wp-6.0.2\n"
+"X-Domain: appointech"
+
+#. Name of the theme
+msgid "Appointech"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Appointech is a dark and creative multipurpose business WordPress theme that "
+"enables you to create stunning, fully responsive WordPress-powered websites "
+"with ease. It’s truly a multipurpose theme that is an ideal choice for both "
+"big and small businesses. It comes packed with powerful features for "
+"designing and customizing theme pages, advanced typography, sticky menu, "
+"header styles, logo upload, translation ready (WPML, Polylang), built with "
+"SEO in mind and it's built to be beautiful on all screen sizes. The theme is "
+"perfectly suited for business, consultant, finance, corporate, freelancer, "
+"agency, business promotion, personal portfolio, electrician, industries, "
+"education, SEO, construction, fashion, online shop, health &amp; medical, "
+"beauty &amp; spa salons, wedding, photography, gym, cafe, music, interior "
+"design firms, architecture firms, lawyer, restaurant, hotel, blog, magazine, "
+"travel agency and many other websites compatible. This theme supports the "
+"best Elementor page builder to create, edit, and update page designs as per "
+"the requirement. Appointech also supports popular free and premium WordPress "
+"plugins such as Elementor, Yoast SEO, WooCommerce, Contact Form 7, Jetpack, "
+"Google Analytics, and much more. Check the demo of Appointech Pro https:"
+"//themearile.com/aasta-pro-theme/."
+msgstr ""
+
+#: footer.php:14 inc/customizer/appointech-customizer-options.php:17
+msgid ""
+"Copyright &copy; 2022 | Powered by <a href=\"//wordpress.org/\">WordPress</a>"
+" <span class=\"sep\"> | </span> Appointech theme by <a target=\"_blank\" "
+"href=\"//themearile.com/\">ThemeArile</a>"
+msgstr ""
+
+#: inc/customizer/appointech-customizer-options.php:22
+msgid "Footer Copyright"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://themearile.com"
+msgstr ""
+
+#. URI of the theme
+msgid "https://themearile.com/appointech-theme/"
+msgstr ""
+
+#. Author of the theme
+msgid "ThemeArile"
+msgstr ""
+
+#: template-parts/site-navbar.php:12
+msgid "Toggle navigation"
+msgstr ""

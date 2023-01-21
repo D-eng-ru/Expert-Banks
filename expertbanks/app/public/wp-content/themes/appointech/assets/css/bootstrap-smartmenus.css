@@ -1,0 +1,29 @@
+/*
+Name: bootstrap-smartmenus.css
+*/
+
+/* Carets in collapsible mode (make them look like +/- buttons) */
+
+.navbar { 
+	background-color: #292b32;
+}
+.navbar .navbar-toggler-icon, 
+.navbar.header-fixed-top .navbar-toggler-icon {
+	background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255, 255, 255, 1)' stroke-width='3' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+	width: 2rem;
+}
+.navbar-light .navbar-toggler, 
+.navbar.header-fixed-top .navbar-toggler {
+    color: rgba(255, 255, 255, 0.5);
+    border-color: rgba(255, 255, 255, 1);
+}
+.site-branding-text .site-title a {
+	color: #fff;
+}
+
+@media (max-width: 991px){
+.navbar .nav {
+    padding-left: 0px;
+	padding-right: 0px;
+}
+}
